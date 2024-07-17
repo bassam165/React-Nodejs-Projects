@@ -1,0 +1,14 @@
+.card{
+    text-align: center;
+}
+
+.clock{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}

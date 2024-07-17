@@ -1,0 +1,19 @@
+.card{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.card button{
+    width: 100%;
+}
+
+input{
+    margin: 2px;
+    padding: 2px;
+}
+
+select{
+    margin: 2px;
+    padding: 2px;
+}

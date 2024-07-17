@@ -1,0 +1,17 @@
+.card{
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ padding: 10px;
+}
+
+.card button{
+    margin-top: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
